@@ -14,7 +14,7 @@ export default function Home() {
           Expert assistance for assignments, exams, and dissertations
         </p>
         <a
-          href="#"
+          href="/contact"
           className="px-8 py-3 bg-blue-800 text-white rounded-full font-semibold text-lg hover:bg-blue-900 transition mb-8"
         >
           Get started
